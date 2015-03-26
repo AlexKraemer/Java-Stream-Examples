@@ -6,7 +6,6 @@
  * @author Alex Kraemer
  * @version November 16, 2014
  */
-package streamassignment;
 
 import java.util.Arrays;
 
